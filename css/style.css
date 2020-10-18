@@ -226,7 +226,7 @@ header{
     align-items: flex-start;
   }
 
-  .gallery #gallery{
+  .gallery {
     display: none;
   }
 }
